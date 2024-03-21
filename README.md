@@ -1,6 +1,5 @@
 ### Hi there! My name is Emil. Welcome to my page!
-
-
+[CV](cv_emil_galimov_ru.pdf)
 <!--
 **esgalimov/esgalimov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
