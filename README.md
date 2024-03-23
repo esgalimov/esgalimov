@@ -1,5 +1,5 @@
 ### Hi there! My name is Emil. Welcome to my page!
-[CV_en](cv_emil_galimov_en.pdf)
+[CV_en](cv_emil_galimov_en.pdf) <br/>
 [CV_ru](cv_emil_galimov_ru.pdf)
 
 <!--
